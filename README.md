@@ -36,7 +36,7 @@ Use the background image to create the atmosphere.
 
 ## Expected Output
 Here is a screenshot of the expected output.
-![Image description](https://i1.faceprep.in/ProGrad/lab-sprints-flex and grids.png)
+![Image description](https://i1.faceprep.in/ProGrad/lab-sprints-flexandgrids.png)
 
 Happy Coding ❤️
 
