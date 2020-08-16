@@ -1,14 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap');
+
 * {
     box-sizing: border-box;
+    font-family: 'Nunito Sans', sans-serif;
   }
 
   body{
-    background-image: url(./Assets/Airtel.jpg);
-    color: white;
+    color: black;
   }
 
   header{
-      font-size: 35px;
+      font-size: 25px;
       font-weight: bold;
   }
 
@@ -32,14 +34,14 @@
   }
   
   .price .header {
-    background-color:  #2D2926FF;
+    background-color:  #F05136;
     color: white;
     font-size: 30px;
     font-weight: bold;
   }
   
   .price li {
-    border-bottom: 1px solid #2D2926FF;
+    border-bottom: 1px solid #F05136;
     padding: 20px;
     text-align: center;
     font-size: 25px;
@@ -48,11 +50,11 @@
   
   .price .grey {
     font-size: 25px;
-    background-color: ;
+    background-color:  #F05136;
   }
   
   .button {
-    background-color: #2D2926FF;
+    background-color: #F05136;
     color: white;
     border: none;
     padding: 10px 25px;
@@ -60,7 +62,12 @@
     text-decoration: none;
     font-size: 18px;
   }
-  
+
+  footer{
+    margin-top: 40%;
+    margin-left: 1%;
+  }
+
   @media only screen and (max-width: 600px) {
     .columns {
       width: 100%;
