@@ -28,11 +28,12 @@ And finally, create a pull request so your ProGrad Mentor (PM) can review your w
 ## Instructions
 The starter-code contains all the files, images, and text content needed to create the calendar. The text is in the index.html, and a css file is created in style.css. Font to be used should be Nunito Sans. Remember to follow the best practices.
 
-### Progression 1: Create the basic layout
+### Progression 1: Flex
 
-Use the background image to create the atmosphere.
+Create the basic template using flex layout.
 
-
+### Progression 2: Grid
+Use grid to create the inner blocks. Refer the expected output for reference.
 
 ## Expected Output
 Here is a screenshot of the expected output.
